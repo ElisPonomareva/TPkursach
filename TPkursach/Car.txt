@@ -1,0 +1,12 @@
+Machine: Car
+Color: Pink
+Price: 4 570 000
+Power: 184 l.s.
+Create Date: 2/10/2020
+Mark: Mercedes-Benz
+Model: E200
+Sizes: 4923/1852/1468
+Fuel: 95
+Type Control: AUTO
+Expense: 4.5
+Volume: 540

@@ -1,0 +1,12 @@
+Machine: Motobike
+Color: Black
+Price: 1 070 000
+Power: 1200
+Create Date: 2/10/2020
+Mark: Harley-Davidson
+Model: 1200 Custom
+Sizes: 2225/725
+Fuel: 95
+Type Control: AUTO
+Expense: 4.5
+Volume: 540

@@ -1,0 +1,12 @@
+Machine: Quadrobike
+Color: Red
+Price: 110 000
+Power: 16 l.s.
+Create Date: 2/10/2020
+Mark: ATV 
+Model: CLASSIC 200
+Sizes: 150/180/135
+Fuel: 92
+Type Control: AUTO
+Expense: 4.5
+Volume: 520

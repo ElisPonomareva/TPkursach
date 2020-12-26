@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MANAGER
+#define MANAGER
 #include "Builder.h"
 #include "Machine.h"
 #include <fstream>
@@ -17,3 +18,4 @@ public:
 	std::vector <Machine*> Load();
 	void BuildFullProduct();
 };
+#endif

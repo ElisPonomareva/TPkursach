@@ -1,4 +1,5 @@
-#pragma once
+#ifndef MACHINE
+#define MACHINE
 #include <iostream>
 #include <fstream>
 #include <vector>
@@ -10,3 +11,4 @@ public:
 	std::vector<std::string> machine;
 	void ListParts() const;
 };
+#endif

@@ -1,4 +1,5 @@
-#pragma once
+#ifndef BUILDER
+#define BUILDER
 #include "Machine.h"
 
 class Builder {
@@ -21,3 +22,4 @@ public:
 	std::vector<std::string>& getMas();
 	virtual Machine* GetProduct() = 0;
 };
+#endif
